@@ -1,0 +1,34 @@
+*{
+    background-color: cornsilk;
+}
+
+body{
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
+
+.exercises{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: narrower;
+    /* color: rgb(238, 255, 0); */
+    /* font-b: rgb(15, 15, 15); */
+}
+
+a{
+    color: rgb(238, 255, 0);
+    background-color: rgb(51, 51, 51);
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: narrower;
+    color: darkcyan;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: narrower;
+    color: #5243a1;
+}
+
